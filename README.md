@@ -19,7 +19,8 @@ This repository serves as a centralized collection of prompts for different AI s
 │   ├── debugging/         # Fixing issues and troubleshooting
 │   ├── architecture/      # System design and architecture
 │   ├── devops/            # CI/CD, infrastructure as code, and deployment
-│   └── code-quality/      # Code reviews, testing, and quality assurance
+│   ├── code-quality/      # Code reviews, testing, and quality assurance
+│   └── agentic-editors/   # Best practices for AI-powered code editors
 ├── creative/              # Creative content generation
 │   ├── writing/           # Story, essay, and content writing
 │   ├── visual/            # Image generation guidance
